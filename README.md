@@ -1,4 +1,7 @@
 # Breast Cancer RNA-seq Classification
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green)
+![RNA-seq](https://img.shields.io/badge/Data-RNAseq-orange)
 
 ## Overview
 This project implements supervised machine learning models to classify tumor vs normal breast tissue samples using bulk RNA-seq transcriptomic data (GSE58135).
